@@ -223,6 +223,7 @@
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/selva192003/Leetcode/tree/master/0507-perfect-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/selva192003/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/selva192003/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Data Stream
