@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0407-trapping-rain-water-ii](https://github.com/selva192003/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/selva192003/Leetcode/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/selva192003/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/selva192003/Leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/selva192003/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/selva192003/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -76,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/selva192003/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/selva192003/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/selva192003/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/selva192003/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -265,5 +267,14 @@
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/selva192003/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/selva192003/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/selva192003/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/selva192003/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
