@@ -25,6 +25,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/selva192003/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/selva192003/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/selva192003/Leetcode/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/selva192003/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/selva192003/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/selva192003/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -233,12 +234,14 @@
 | [0027-remove-element](https://github.com/selva192003/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/selva192003/Leetcode/tree/master/0344-reverse-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/selva192003/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/selva192003/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva192003/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/selva192003/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/selva192003/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/selva192003/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
