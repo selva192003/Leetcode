@@ -86,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/selva192003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/selva192003/Leetcode/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/selva192003/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/selva192003/Leetcode/tree/master/0952-word-subsets) |
@@ -194,6 +195,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/selva192003/Leetcode/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva192003/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/selva192003/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/selva192003/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
