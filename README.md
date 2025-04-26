@@ -338,6 +338,7 @@
 | [0027-remove-element](https://github.com/selva192003/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/selva192003/Leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/selva192003/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/selva192003/Leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/selva192003/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -368,6 +369,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/selva192003/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/selva192003/Leetcode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/selva192003/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/selva192003/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/selva192003/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/selva192003/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -449,6 +451,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/selva192003/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/selva192003/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/selva192003/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/selva192003/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
