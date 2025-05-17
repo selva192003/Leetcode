@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/selva192003/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/selva192003/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/selva192003/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/selva192003/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -352,6 +353,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/selva192003/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/selva192003/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/selva192003/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -370,6 +372,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/selva192003/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/selva192003/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/selva192003/Leetcode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/selva192003/Leetcode/tree/master/0633-sum-of-square-numbers) |
