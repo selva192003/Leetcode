@@ -17,6 +17,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/selva192003/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/selva192003/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/selva192003/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/selva192003/Leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/selva192003/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/selva192003/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/selva192003/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -595,6 +596,7 @@
 | [0368-largest-divisible-subset](https://github.com/selva192003/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/selva192003/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/selva192003/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0679-24-game](https://github.com/selva192003/Leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/selva192003/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/selva192003/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/selva192003/Leetcode/tree/master/0867-new-21-game) |
@@ -635,6 +637,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/selva192003/Leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/selva192003/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/selva192003/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/selva192003/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
