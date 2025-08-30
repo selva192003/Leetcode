@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/selva192003/Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/selva192003/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/selva192003/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/selva192003/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -235,6 +236,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/selva192003/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/selva192003/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/selva192003/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/selva192003/Leetcode/tree/master/0768-partition-labels) |
@@ -457,6 +459,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/selva192003/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/selva192003/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/selva192003/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/selva192003/Leetcode/tree/master/0498-diagonal-traverse) |
