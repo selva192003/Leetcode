@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/selva192003/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/selva192003/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/selva192003/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/selva192003/Leetcode/tree/master/0037-sudoku-solver) |
@@ -249,6 +250,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/selva192003/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/selva192003/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/selva192003/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/selva192003/Leetcode/tree/master/0073-set-matrix-zeroes) |
