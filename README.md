@@ -197,6 +197,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/selva192003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/selva192003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/selva192003/Leetcode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/selva192003/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/selva192003/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/selva192003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/selva192003/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/selva192003/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/selva192003/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -671,6 +673,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/selva192003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/selva192003/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/selva192003/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/selva192003/Leetcode/tree/master/0342-power-of-four) |
