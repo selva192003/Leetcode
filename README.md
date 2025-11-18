@@ -26,6 +26,7 @@
 | [0611-valid-triangle-number](https://github.com/selva192003/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/selva192003/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/selva192003/Leetcode/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/selva192003/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0797-rabbits-in-forest](https://github.com/selva192003/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/selva192003/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/selva192003/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
