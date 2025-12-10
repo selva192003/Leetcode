@@ -178,6 +178,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/selva192003/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/selva192003/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/selva192003/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/selva192003/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/selva192003/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/selva192003/Leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/selva192003/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -839,6 +840,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/selva192003/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/selva192003/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/selva192003/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/selva192003/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/selva192003/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/selva192003/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/selva192003/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -1024,6 +1026,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/selva192003/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/selva192003/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/selva192003/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/selva192003/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/selva192003/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/selva192003/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/selva192003/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1096,6 +1099,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/selva192003/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/selva192003/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/selva192003/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/selva192003/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Probability and Statistics
 |  |
 | ------- |
