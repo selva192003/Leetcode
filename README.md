@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/selva192003/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/selva192003/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/selva192003/Leetcode/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/selva192003/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/selva192003/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/selva192003/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -796,6 +797,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/selva192003/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/selva192003/Leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/selva192003/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/selva192003/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/selva192003/Leetcode/tree/master/0231-power-of-two) |
