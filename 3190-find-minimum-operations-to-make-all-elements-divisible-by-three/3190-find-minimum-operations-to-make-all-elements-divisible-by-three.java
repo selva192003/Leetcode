@@ -1,9 +1,11 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-        int res = 0;
-        for (int num : nums) {
-            if (num % 3 != 0) res++;
+        int ans=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]%3!=0){
+                ans++;
+            }
         }
-        return res;
+        return ans;
     }
 }
