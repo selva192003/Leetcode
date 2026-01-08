@@ -1,44 +1,32 @@
-import java.util.*;
-
 class Solution {
-    int[] nums1, nums2;
-    int[][] memo;
-    int n, m;
-    final int NEG_INF = (int) -1e9;
+    public int maxDotProduct(int[] nums1, int[] nums2) {
+        int n = nums1.length;
+        int m = nums2.length;
 
-    int dp(int i, int j) {
-        if (i == n || j == m)
-            return NEG_INF;
+        // dp[i][j] = max dot product using nums1[0..i-1] and nums2[0..j-1]
+        int[][] dp = new int[n + 1][m + 1];
 
-        if (memo[i][j] != Integer.MIN_VALUE)
-            return memo[i][j];
+        // Initialize with very small value to ensure non-empty subsequence
+        for (int i = 0; i <= n; i++) {
+            for (int j = 0; j <= m; j++) {
+                dp[i][j] = Integer.MIN_VALUE / 2;
+            }
+        }
 
-        int take = nums1[i] * nums2[j];
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= m; j++) {
+                int product = nums1[i - 1] * nums2[j - 1];
 
-        int res = Math.max(
-            Math.max(
-                take + dp(i + 1, j + 1), // take both and continue
-                take                    // take and end here
-            ),
-            Math.max(
-                dp(i + 1, j),           // skip nums1[i]
-                dp(i, j + 1)            // skip nums2[j]
-            )
-        );
+                dp[i][j] = Math.max(
+                    product,                         // start new subsequence
+                    product + dp[i - 1][j - 1]       // extend subsequence
+                );
 
-        return memo[i][j] = res;
-    }
+                dp[i][j] = Math.max(dp[i][j], dp[i - 1][j]); // skip nums1
+                dp[i][j] = Math.max(dp[i][j], dp[i][j - 1]); // skip nums2
+            }
+        }
 
-    public int maxDotProduct(int[] a, int[] b) {
-        nums1 = a;
-        nums2 = b;
-        n = nums1.length;
-        m = nums2.length;
-
-        memo = new int[n][m];
-        for (int i = 0; i < n; i++)
-            Arrays.fill(memo[i], Integer.MIN_VALUE);
-
-        return dp(0, 0);
+        return dp[n][m];
     }
 }
