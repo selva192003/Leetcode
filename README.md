@@ -291,6 +291,7 @@
 | [0014-longest-common-prefix](https://github.com/selva192003/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/selva192003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/selva192003/Leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/selva192003/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/selva192003/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/selva192003/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/selva192003/Leetcode/tree/master/0344-reverse-string) |
@@ -461,6 +462,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/selva192003/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/selva192003/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/selva192003/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/selva192003/Leetcode/tree/master/0231-power-of-two) |
@@ -858,6 +860,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/selva192003/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/selva192003/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva192003/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/selva192003/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -906,6 +909,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/selva192003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/selva192003/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/selva192003/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/selva192003/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/selva192003/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/selva192003/Leetcode/tree/master/0231-power-of-two) |
