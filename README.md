@@ -465,6 +465,7 @@
 | [0067-add-binary](https://github.com/selva192003/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/selva192003/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/selva192003/Leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/selva192003/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/selva192003/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/selva192003/Leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/selva192003/Leetcode/tree/master/0342-power-of-four) |
@@ -1074,6 +1075,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/selva192003/Leetcode/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/selva192003/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/selva192003/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/selva192003/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
