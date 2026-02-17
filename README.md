@@ -469,6 +469,7 @@
 | [0231-power-of-two](https://github.com/selva192003/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/selva192003/Leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/selva192003/Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/selva192003/Leetcode/tree/master/0401-binary-watch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/selva192003/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/selva192003/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva192003/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -986,6 +987,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/selva192003/Leetcode/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/selva192003/Leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/selva192003/Leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/selva192003/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/selva192003/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
