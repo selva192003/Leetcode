@@ -296,6 +296,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/selva192003/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/selva192003/Leetcode/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/selva192003/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/selva192003/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/selva192003/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/selva192003/Leetcode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/selva192003/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -845,6 +846,7 @@
 | [0344-reverse-string](https://github.com/selva192003/Leetcode/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/selva192003/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/selva192003/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0696-count-binary-substrings](https://github.com/selva192003/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/selva192003/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/selva192003/Leetcode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/selva192003/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
