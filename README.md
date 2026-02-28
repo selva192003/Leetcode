@@ -479,6 +479,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/selva192003/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/selva192003/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/selva192003/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/selva192003/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva192003/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/selva192003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selva192003/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -878,6 +879,7 @@
 | [0067-add-binary](https://github.com/selva192003/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/selva192003/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/selva192003/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/selva192003/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva192003/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/selva192003/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2211-count-collisions-on-a-road](https://github.com/selva192003/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -951,6 +953,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/selva192003/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/selva192003/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/selva192003/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/selva192003/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/selva192003/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/selva192003/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva192003/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
