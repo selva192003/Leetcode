@@ -199,6 +199,7 @@
 | [3379-transformed-array](https://github.com/selva192003/Leetcode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/selva192003/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/selva192003/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/selva192003/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/selva192003/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/selva192003/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/selva192003/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -759,6 +760,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/selva192003/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/selva192003/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/selva192003/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/selva192003/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/selva192003/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/selva192003/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1116,6 +1118,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/selva192003/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/selva192003/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/selva192003/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/selva192003/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/selva192003/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/selva192003/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/selva192003/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
