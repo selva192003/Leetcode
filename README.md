@@ -136,6 +136,7 @@
 | [2429-design-a-food-rating-system](https://github.com/selva192003/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/selva192003/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/selva192003/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/selva192003/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2465-shifting-letters-ii](https://github.com/selva192003/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selva192003/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/selva192003/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -361,6 +362,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/selva192003/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/selva192003/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/selva192003/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/selva192003/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/selva192003/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/selva192003/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/selva192003/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -543,6 +545,7 @@
 | [0386-lexicographical-numbers](https://github.com/selva192003/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/selva192003/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/selva192003/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/selva192003/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selva192003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
