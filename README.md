@@ -905,6 +905,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/selva192003/Leetcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/selva192003/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/selva192003/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/selva192003/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -1348,6 +1349,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/selva192003/Leetcode/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/selva192003/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/selva192003/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/selva192003/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
