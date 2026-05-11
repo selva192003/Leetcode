@@ -150,6 +150,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/selva192003/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/selva192003/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/selva192003/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/selva192003/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/selva192003/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/selva192003/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/selva192003/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -957,6 +958,7 @@
 | [2402-meeting-rooms-iii](https://github.com/selva192003/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/selva192003/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/selva192003/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/selva192003/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/selva192003/Leetcode/tree/master/2751-robot-collisions) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/selva192003/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3379-transformed-array](https://github.com/selva192003/Leetcode/tree/master/3379-transformed-array) |
