@@ -174,6 +174,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selva192003/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/selva192003/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/selva192003/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/selva192003/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/selva192003/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/selva192003/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -466,6 +467,7 @@
 | [2689-rearranging-fruits](https://github.com/selva192003/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/selva192003/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selva192003/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2784-check-if-array-is-good](https://github.com/selva192003/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/selva192003/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/selva192003/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/selva192003/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -897,6 +899,7 @@
 | [2689-rearranging-fruits](https://github.com/selva192003/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/selva192003/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2751-robot-collisions](https://github.com/selva192003/Leetcode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/selva192003/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/selva192003/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/selva192003/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/selva192003/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
