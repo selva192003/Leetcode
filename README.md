@@ -18,6 +18,7 @@
 | [0135-candy](https://github.com/selva192003/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/selva192003/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/selva192003/Leetcode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/selva192003/Leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/selva192003/Leetcode/tree/master/0260-single-number-iii) |
 | [0368-largest-divisible-subset](https://github.com/selva192003/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -1252,6 +1253,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/selva192003/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/selva192003/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/selva192003/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/selva192003/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
