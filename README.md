@@ -52,6 +52,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/selva192003/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/selva192003/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/selva192003/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/selva192003/Leetcode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/selva192003/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/selva192003/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/selva192003/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -680,6 +681,7 @@
 | [0945-snakes-and-ladders](https://github.com/selva192003/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selva192003/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selva192003/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/selva192003/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/selva192003/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/selva192003/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -815,6 +817,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/selva192003/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selva192003/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selva192003/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/selva192003/Leetcode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/selva192003/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/selva192003/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
