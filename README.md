@@ -1101,6 +1101,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/selva192003/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/selva192003/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/selva192003/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/selva192003/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3830-find-closest-person](https://github.com/selva192003/Leetcode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/selva192003/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Data Stream
@@ -1190,6 +1191,7 @@
 | [3660-jump-game-ix](https://github.com/selva192003/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/selva192003/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/selva192003/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/selva192003/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/selva192003/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
