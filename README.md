@@ -116,6 +116,7 @@
 | [2145-grid-game](https://github.com/selva192003/Leetcode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/selva192003/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/selva192003/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selva192003/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/selva192003/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/selva192003/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -958,6 +959,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/selva192003/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1861-rotating-the-box](https://github.com/selva192003/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/selva192003/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/selva192003/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/selva192003/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -981,6 +983,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/selva192003/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva192003/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/selva192003/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/selva192003/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/selva192003/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
