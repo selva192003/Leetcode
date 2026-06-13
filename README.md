@@ -281,6 +281,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/selva192003/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/selva192003/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/selva192003/Leetcode/tree/master/3827-implement-router) |
+| [3838-weighted-word-mapping](https://github.com/selva192003/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/selva192003/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/selva192003/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
@@ -421,6 +422,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/selva192003/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/selva192003/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/selva192003/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/selva192003/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selva192003/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -1012,6 +1014,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/selva192003/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/selva192003/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/selva192003/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/selva192003/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
