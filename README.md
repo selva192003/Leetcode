@@ -250,6 +250,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/selva192003/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/selva192003/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/selva192003/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/selva192003/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/selva192003/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/selva192003/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/selva192003/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -794,6 +795,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/selva192003/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/selva192003/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/selva192003/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/selva192003/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/selva192003/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/selva192003/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/selva192003/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -853,6 +855,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/selva192003/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/selva192003/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/selva192003/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/selva192003/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/selva192003/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
@@ -914,6 +917,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/selva192003/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/selva192003/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/selva192003/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3620-network-recovery-pathways](https://github.com/selva192003/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
 | ------- |
@@ -1231,6 +1235,7 @@
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/selva192003/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/selva192003/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/selva192003/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/selva192003/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/selva192003/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/selva192003/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/selva192003/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1362,6 +1367,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/selva192003/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/selva192003/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/selva192003/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/selva192003/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3643-zero-array-transformation-ii](https://github.com/selva192003/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/selva192003/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/selva192003/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1509,6 +1515,7 @@
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/selva192003/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/selva192003/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/selva192003/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/selva192003/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
