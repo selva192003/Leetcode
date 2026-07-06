@@ -50,6 +50,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/selva192003/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1200-minimum-absolute-difference](https://github.com/selva192003/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/selva192003/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/selva192003/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/selva192003/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/selva192003/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/selva192003/Leetcode/tree/master/1306-jump-game-iii) |
@@ -933,6 +934,7 @@
 | [0900-reordered-power-of-2](https://github.com/selva192003/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/selva192003/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/selva192003/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/selva192003/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/selva192003/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/selva192003/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/selva192003/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
