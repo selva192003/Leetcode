@@ -1158,6 +1158,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/selva192003/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/selva192003/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/selva192003/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/selva192003/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/selva192003/Leetcode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/selva192003/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Data Stream
