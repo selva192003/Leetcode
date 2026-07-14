@@ -218,6 +218,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/selva192003/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/selva192003/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/selva192003/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/selva192003/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/selva192003/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/selva192003/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/selva192003/Leetcode/tree/master/3379-transformed-array) |
@@ -1146,6 +1147,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/selva192003/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/selva192003/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/selva192003/Leetcode/tree/master/3321-type-of-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/selva192003/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/selva192003/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/selva192003/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/selva192003/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -1242,6 +1244,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/selva192003/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/selva192003/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/selva192003/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/selva192003/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/selva192003/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/selva192003/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/selva192003/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1317,6 +1320,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/selva192003/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/selva192003/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/selva192003/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/selva192003/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/selva192003/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
 |  |
