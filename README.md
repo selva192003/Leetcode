@@ -418,6 +418,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/selva192003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/selva192003/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/selva192003/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selva192003/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/selva192003/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/selva192003/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/selva192003/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -669,6 +670,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/selva192003/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/selva192003/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/selva192003/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selva192003/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/selva192003/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/selva192003/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/selva192003/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1153,6 +1155,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/selva192003/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/selva192003/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/selva192003/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/selva192003/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva192003/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/selva192003/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/selva192003/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
