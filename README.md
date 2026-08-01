@@ -25,6 +25,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/selva192003/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/selva192003/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/selva192003/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/selva192003/Leetcode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/selva192003/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/selva192003/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/selva192003/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -1114,6 +1115,7 @@
 | [0231-power-of-two](https://github.com/selva192003/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/selva192003/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/selva192003/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/selva192003/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/selva192003/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/selva192003/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0679-24-game](https://github.com/selva192003/Leetcode/tree/master/0679-24-game) |
@@ -1225,6 +1227,7 @@
 | [0368-largest-divisible-subset](https://github.com/selva192003/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/selva192003/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/selva192003/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/selva192003/Leetcode/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/selva192003/Leetcode/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/selva192003/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/selva192003/Leetcode/tree/master/0826-soup-servings) |
@@ -1476,6 +1479,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/selva192003/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/selva192003/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/selva192003/Leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/selva192003/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/selva192003/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/selva192003/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1549,6 +1553,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/selva192003/Leetcode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/selva192003/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
