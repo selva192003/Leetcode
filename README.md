@@ -427,6 +427,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/selva192003/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/selva192003/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selva192003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/selva192003/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/selva192003/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/selva192003/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/selva192003/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -676,6 +677,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/selva192003/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/selva192003/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/selva192003/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/selva192003/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/selva192003/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/selva192003/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/selva192003/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1172,6 +1174,7 @@
 | [3321-type-of-triangle](https://github.com/selva192003/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/selva192003/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/selva192003/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/selva192003/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/selva192003/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/selva192003/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/selva192003/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -1222,6 +1225,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selva192003/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/selva192003/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/selva192003/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/selva192003/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1350,6 +1354,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/selva192003/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/selva192003/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/selva192003/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/selva192003/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/selva192003/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/selva192003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/selva192003/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
