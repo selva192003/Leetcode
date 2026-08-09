@@ -49,6 +49,7 @@
 | [1006-vowel-spellchecker](https://github.com/selva192003/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/selva192003/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/selva192003/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1140-stone-game-ii](https://github.com/selva192003/Leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/selva192003/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/selva192003/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/selva192003/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -303,6 +304,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/selva192003/Leetcode/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/selva192003/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/selva192003/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/selva192003/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1129,6 +1131,7 @@
 | [0867-new-21-game](https://github.com/selva192003/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/selva192003/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/selva192003/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/selva192003/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/selva192003/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/selva192003/Leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/selva192003/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1243,6 +1246,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/selva192003/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/selva192003/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/selva192003/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1140-stone-game-ii](https://github.com/selva192003/Leetcode/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/selva192003/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/selva192003/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/selva192003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1563,6 +1567,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/selva192003/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/selva192003/Leetcode/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/selva192003/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
@@ -1602,4 +1607,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/selva192003/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/selva192003/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/selva192003/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
