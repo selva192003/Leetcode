@@ -287,6 +287,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/selva192003/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/selva192003/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/selva192003/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/selva192003/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/selva192003/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/selva192003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/selva192003/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -563,6 +564,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/selva192003/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/selva192003/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/selva192003/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/selva192003/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/selva192003/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/selva192003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/selva192003/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
