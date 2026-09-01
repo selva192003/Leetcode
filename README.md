@@ -259,6 +259,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/selva192003/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/selva192003/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/selva192003/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/selva192003/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/selva192003/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/selva192003/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/selva192003/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -555,6 +556,7 @@
 | [3531-count-covered-buildings](https://github.com/selva192003/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/selva192003/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/selva192003/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/selva192003/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/selva192003/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3583-count-special-triplets](https://github.com/selva192003/Leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/selva192003/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -622,6 +624,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/selva192003/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/selva192003/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/selva192003/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/selva192003/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/selva192003/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/selva192003/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/selva192003/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -790,6 +793,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/selva192003/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/selva192003/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/selva192003/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/selva192003/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/selva192003/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/selva192003/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -894,6 +898,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/selva192003/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/selva192003/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/selva192003/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/selva192003/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/selva192003/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/selva192003/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/selva192003/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
