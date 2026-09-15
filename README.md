@@ -433,6 +433,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/selva192003/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/selva192003/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/selva192003/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/selva192003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/selva192003/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/selva192003/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/selva192003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -694,6 +695,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/selva192003/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/selva192003/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/selva192003/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/selva192003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/selva192003/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/selva192003/Leetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/selva192003/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1076,6 +1078,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/selva192003/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/selva192003/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/selva192003/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/selva192003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/selva192003/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/selva192003/Leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/selva192003/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -1324,6 +1327,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/selva192003/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/selva192003/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/selva192003/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/selva192003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/selva192003/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/selva192003/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/selva192003/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
