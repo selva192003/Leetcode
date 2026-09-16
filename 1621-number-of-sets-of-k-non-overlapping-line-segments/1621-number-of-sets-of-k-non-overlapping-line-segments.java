@@ -1,4 +1,8 @@
 class Solution {
+    public int numberOfSets(int n, int k) {
+        
+    }
+}class Solution {
     private static final long MOD = 1_000_000_007L;
 
     private long modPow(long base, long exp) {
