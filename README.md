@@ -1182,6 +1182,7 @@
 | [1140-stone-game-ii](https://github.com/selva192003/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/selva192003/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/selva192003/Leetcode/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/selva192003/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/selva192003/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/selva192003/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/selva192003/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1636,6 +1637,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/selva192003/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/selva192003/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/selva192003/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/selva192003/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
