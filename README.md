@@ -257,6 +257,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/selva192003/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/selva192003/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/selva192003/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/selva192003/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3531-count-covered-buildings](https://github.com/selva192003/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/selva192003/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/selva192003/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1239,6 +1240,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/selva192003/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/selva192003/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/selva192003/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/selva192003/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/selva192003/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/selva192003/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/selva192003/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1588,6 +1590,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/selva192003/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/selva192003/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/selva192003/Leetcode/tree/master/3161-block-placement-queries) |
+| [3525-find-x-value-of-array-ii](https://github.com/selva192003/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/selva192003/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/selva192003/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/selva192003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
