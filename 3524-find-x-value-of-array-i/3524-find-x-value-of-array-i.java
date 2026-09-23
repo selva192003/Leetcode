@@ -6,17 +6,14 @@ class Solution {
         for (int n : A) {
             n %= k;
             int[] cur = new int[k];
-            cur[n] = 1;
+            cur[n]++;
 
-            for (int x = 0; x < k; x++) {
+            for (int x = 0; x < k; x++)
                 cur[x * n % k] += freq[x];
-            }
 
             freq = cur;
-
-            for (int x = 0; x < k; x++) {
+            for (int x = 0; x < k; x++)
                 res[x] += freq[x];
-            }
         }
 
         return res;
