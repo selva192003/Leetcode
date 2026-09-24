@@ -262,6 +262,7 @@
 | [3531-count-covered-buildings](https://github.com/selva192003/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/selva192003/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/selva192003/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/selva192003/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/selva192003/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/selva192003/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/selva192003/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1246,6 +1247,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/selva192003/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/selva192003/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/selva192003/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/selva192003/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/selva192003/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/selva192003/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/selva192003/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
