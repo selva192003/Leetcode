@@ -377,6 +377,7 @@
 | [0013-roman-to-integer](https://github.com/selva192003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/selva192003/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/selva192003/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/selva192003/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/selva192003/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/selva192003/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/selva192003/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -1291,6 +1292,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/selva192003/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/selva192003/Leetcode/tree/master/0037-sudoku-solver) |
 | [0401-binary-watch](https://github.com/selva192003/Leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/selva192003/Leetcode/tree/master/0679-24-game) |
@@ -1310,6 +1312,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/selva192003/Leetcode/tree/master/0022-generate-parentheses) |
 | [0120-triangle](https://github.com/selva192003/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/selva192003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/selva192003/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -1740,6 +1743,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/selva192003/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/selva192003/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/selva192003/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selva192003/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/selva192003/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
