@@ -382,6 +382,7 @@
 | [0067-add-binary](https://github.com/selva192003/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/selva192003/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/selva192003/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0301-remove-invalid-parentheses](https://github.com/selva192003/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/selva192003/Leetcode/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/selva192003/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/selva192003/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -800,6 +801,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/selva192003/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/selva192003/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/selva192003/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/selva192003/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -1302,6 +1304,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/selva192003/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/selva192003/Leetcode/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/selva192003/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/selva192003/Leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/selva192003/Leetcode/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/selva192003/Leetcode/tree/master/1096-brace-expansion-ii) |
