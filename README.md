@@ -289,6 +289,7 @@
 | [3639-zero-array-transformation-i](https://github.com/selva192003/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/selva192003/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/selva192003/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/selva192003/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3647-zero-array-transformation-iii](https://github.com/selva192003/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/selva192003/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/selva192003/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -662,6 +663,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/selva192003/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/selva192003/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/selva192003/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/selva192003/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/selva192003/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/selva192003/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
