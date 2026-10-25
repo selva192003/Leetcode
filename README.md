@@ -51,6 +51,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/selva192003/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1140-stone-game-ii](https://github.com/selva192003/Leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/selva192003/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/selva192003/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/selva192003/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/selva192003/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/selva192003/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -827,6 +828,7 @@
 | [1096-brace-expansion-ii](https://github.com/selva192003/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selva192003/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selva192003/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/selva192003/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/selva192003/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/selva192003/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -919,6 +921,7 @@
 | [0840-magic-squares-in-grid](https://github.com/selva192003/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/selva192003/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/selva192003/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/selva192003/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/selva192003/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/selva192003/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -981,6 +984,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/selva192003/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selva192003/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selva192003/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/selva192003/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/selva192003/Leetcode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/selva192003/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/selva192003/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1737,6 +1741,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/selva192003/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/selva192003/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/selva192003/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
