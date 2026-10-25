@@ -1,4 +1,5 @@
-class Solution {
+
+        class Solution {
     public int countDaysTogether(String a, String b, String c, String d) {
         return Math.max(0, Math.min(f(b), f(d)) - Math.max(f(a), f(c)) + 1);
     }
